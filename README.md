@@ -1,4 +1,5 @@
-# This repository includes the program files for my Capstone Project on Biomusic. 
+# Biomusic
+###### This repository includes the program files for my Capstone Project on 
 
 ## Flow diagram:
 <br>
