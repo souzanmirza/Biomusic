@@ -3,7 +3,7 @@
 
 ## Flow diagram:
 <br>
-![alt tag](https://github.com/souzanmirza/Biomusic/blob/master/flowdiagram.jpg)
+![alt tag](https://github.com/souzanmirza/Biomusic/blob/master/flowdiagram%20-%20edited.jpg)
 
 ## Description:
 Biomusic translates the digitized physiological signal data, namely ECG, GSR and skin temperature into real time changes (pitch, tempo, volume) to music tracks.
